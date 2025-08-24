@@ -4,17 +4,16 @@
   "version": "0.1.0",
   "identifier": "com.sharunkumar.microsoft-teams",
   "build": {
-    "beforeDevCommand": "bun run dev",
-    "devUrl": "http://localhost:1420",
-    "beforeBuildCommand": "bun run build",
-    "frontendDist": "../dist"
+    "beforeDevCommand": "",
+    "devUrl": "https://teams.microsoft.com/v2/",
+    "beforeBuildCommand": "",
+    "frontendDist": "https://teams.microsoft.com/v2/"
   },
   "app": {
     "windows": [
       {
-        "title": "microsoft-teams",
-        "width": 800,
-        "height": 600
+        "title": "Teams",
+        "maximized": true
       }
     ],
     "security": {
