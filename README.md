@@ -6,7 +6,7 @@
 
 - bun
 
-### Arch Linux
+### (Arch) Linux
 
 - webkit2gtk-4.1
 
