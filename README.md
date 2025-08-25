@@ -1,6 +1,16 @@
-# Tauri + React + Typescript
+# Microsoft Teams - Tauri
 
-Commands
+## Build Dependencies
+
+### All Platforms
+
+- bun
+
+### Arch Linux
+
+- webkit2gtk-4.1
+
+## Commands
 
 ```shell
 bun tauri dev
